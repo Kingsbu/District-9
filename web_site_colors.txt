@@ -1,0 +1,6 @@
+Dark Navi Blue: #232628
+Light Blue: #253846
+Gold : #B29F5B
+Text : white
+Inside Text box: #96989A
+
