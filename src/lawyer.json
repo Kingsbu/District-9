@@ -1,0 +1,71 @@
+[
+    {
+        "name" : "Matthew David Sawyer",
+        "number" : 98478,
+        "practicing" : "Yes",
+        "province" : "Western Cape",
+        "type" : "Attorney"
+    },
+    {
+        "name" : "Khethokuhle Mvelase",
+        "number" : 78153,
+        "practicing" : "No",
+        "province" : "KwaZulu-Natal",
+        "type" : "Attorney"
+    },
+    {
+        "name" : "Nontsikelelo Patience Nqwaba",
+        "number" : 112133,
+        "practicing" : "No",
+        "province" : "Northern Cape",
+        "type" : "Advocate"
+    },
+    {
+        "name" : "Jennica Jasmine Beukes",
+        "number" : 112120,
+        "practicing" : "No",
+        "province" : "Western Cape",
+        "type" : "Advocate"
+    },
+    {
+        "name" : "Sarah Alison Naidoo",
+        "number" : 100341,
+        "practicing" : "Yes",
+        "province" : "KwaZulu-Natal",
+        "type" : "Attorney"
+    },
+    {
+        "name" : "Christiaan Johannes Mouton",
+        "number" : 112111,
+        "practicing" : "Yes",
+        "province" : "Eastern Cape",
+        "type" : "Advocate"
+    },
+    {
+        "name" : "Mzwanele Theophilus Mduna",
+        "number" : 94473,
+        "practicing" : "Yes",
+        "province" : "Eastern Cape",
+        "type" : "Advocate"
+    },
+    {
+        "name" : "Leane Meyer",
+        "number" : 105029,
+        "practicing" : "Yes",
+        "province" : "Western Cape",
+        "type" : "Attorney, Conveyancer"
+    },
+    {
+        "name" : "Sjani De Villiers",
+        "number" : 98864,
+        "practicing" : "Yes",
+        "province" : "Western Cape",
+        "type" : "Attorney, Conveyancer, Notary"
+    },
+    {
+        "name" : "Sivuyile Sandile Zilwa",
+        "number" : 21449,
+        "practicing" : "Yes",
+        "province" : "Gauteng",
+        "type" : "Attorney, Conveyancer, Notary"
+    }]
